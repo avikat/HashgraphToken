@@ -1,0 +1,11 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+node_modules/
+package-lock.json
+hip-206_HederaResponseCodes_sol_HederaResponseCodes.bin
+hip-206_HederaTokenService_sol_HederaTokenService.bin
+hip-206_IHederaTokenService_sol_IHederaTokenService.bin
